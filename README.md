@@ -1,11 +1,78 @@
-- 👋 Hi, I’m @CaesarXInsanium
-- 👀 I’m interested in ... Rust for systems programming and C to get gud.
-Tensorflow and Amethyst have some beautiful documentation. Good documentation is a godsend but bad documentation is boring as heck
-- 🌱 I’m currently learning C, just C
-- 💞️ I’m looking to collaborate on C
-- 📫 How to reach me 
-  - dont unless you want to give an inexperienced fool a job that pays 100k
-<!---
-CaesarXInsanium/CaesarXInsanium is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Jesus Ramos Brito
+
+> 224 North Wolf Road, Wheeling Illinois, 60090
+>
+> jesusramos.official@gmail.com
+> 
+> 224-289-9445
+
+I should write a C compiler in Rust
+
+## Summary
+
+It is my dream to make my own voxel engine similar to Minecraft and write it in Rust. My second 
+dream is to work on the Linux Kernel, joining both Rust and C. Both are my favorite programming languages.
+
+I made a simple ray tracer in Rust and can use an ECS.
+
+In middle school I tinkered with Python for Deep Learning using TensorFlow and PyTorch and managed
+to port a PyTorch model over to TensorFlow.
+
+## Languages
+
+- Rust
+  - Love the ease of use
+  - want to make a game
+- C
+  - GCC gang
+  - love the ability to shoot myself in the foot wether I want to or not
+  - Using this language to learn computer science and to master programming
+  - want to develop on linux kernel
+- Python
+  - first language
+  - was easy to learn but dynamic typing was not for me.
+- 
+
+## Dev Tools Experience
+
+- Neovim: 2021-Present
+  - I have made my own IDE, check out my config files [repo](https://github.com/CaesarXInsanium/CXI_CONFIGS) 
+  - mastered the basics of Vim
+- VSCode/Codium: 2019-Present
+  - fell in love on first sight but is too slow for my liking.
+- Linux: 2019-Present
+  - Very comfortable in a POSIX compliant shell
+  - I use Arch BTW
+  - Debian and Nix OS are glorious too
+- Tiling/Dynamic Window Managers
+  - I literally cannot use a floating window manager any more
+  - Qtile, Bspwm, Sway are the best
+- Git:
+  - nothing too advanced but the basics
+- Zsh/Bash
+  - I currently use zsh
+
+
+## Education
+
+### Harper College
+
+**Associate's in General Studies**
+
+Fall 2021 Semester
+
+### Illinois Institute of Technology
+
+**B.S. in Artificial Intelligence**
+
+2020-21
+
+College education currently on hold do to financial difficulties.
+
+
+## Work Experience
+
+- Houseman
+  - Sheraton Chicago Hotel: 2018-Present
+- Technology Help Desk Service Learner
+  - Wheeling High School: 2018-2019
