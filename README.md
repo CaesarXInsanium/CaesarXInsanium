@@ -1,10 +1,6 @@
 # Jesus Ramos Brito
 
-> 224 North Wolf Road, Wheeling Illinois, 60090
->
-> jesusramos.official@gmail.com
-> 
-> 224-289-9445
+> caesarxinsanium.dev@outlook.com
 
 I should write a C compiler in Rust
 
