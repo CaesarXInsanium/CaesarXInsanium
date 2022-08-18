@@ -56,11 +56,21 @@ Finished
   - meson build system
 - Rust
   - basic syntax
+- Python
+  - basic syntax
+  - Tensorflow/Pytorch
+- Java
+  - basic syntax? I need a refresher
+- Lua
+  - basic syntax
+- Nim
+  - basic syntax
 
 ## Simple Programs I have Achieved
 
 - rotating triangle in rust
 - simple ray tracer in rust
+- ported PyTorch Models to use TensorFlow instead
 
 ## Things I am most lacking
 
