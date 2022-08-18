@@ -1,6 +1,6 @@
 # Jesus Ramos Brito
 
-> caesarxinsanium.dev@outlook.com
+> caesarxinsanium.dev@gmail.com
 
 I should write a C compiler in Rust
 
