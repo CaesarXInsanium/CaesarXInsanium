@@ -6,13 +6,14 @@ I should write a C compiler in Rust
 
 ## Summary
 
-It is my dream to make my own voxel engine similar to Minecraft and write it in Rust. My second 
-dream is to work on the Linux Kernel, joining both Rust and C. Both are my favorite programming languages.
+It is my dream to make my own voxel engine similar to Minecraft and write it in Rust.
+My second dream is to work on the Linux Kernel, joining both Rust and C. Both are
+my favorite programming languages.
 
 I made a simple ray tracer in Rust and can use an ECS.
 
-In middle school I tinkered with Python for Deep Learning using TensorFlow and PyTorch and managed
-to port a PyTorch model over to TensorFlow.
+In middle school I tinkered with Python for Deep Learning using TensorFlow and PyTorch
+and managed to port a PyTorch model over to TensorFlow.
 
 ## Languages
 
@@ -31,7 +32,8 @@ to port a PyTorch model over to TensorFlow.
 ## Dev Tools Experience
 
 - Neovim: 2021-Present
-  - I have made my own IDE, check out my config files [repo](https://github.com/CaesarXInsanium/CXI_CONFIGS) 
+  - I have made my own IDE, check out my config files
+  [repo](https://github.com/CaesarXInsanium/CXI_CONFIGS)
   - mastered the basics of Vim
 - GNU + Linux: 2019-Present
   - Very comfortable in a POSIX compliant shell
@@ -42,25 +44,23 @@ to port a PyTorch model over to TensorFlow.
 - Git:
   - nothing too advanced but the basics
 - Zsh/Bash
-  - I currently use zsh
-
+  - I currently use Zsh
 
 ## Education
 
 ### Harper College
 
-**Associate's in General Studies**
+Degree: **Associate's in General Studies**
 
 Fall 2021-2022 Semester
 
 ### Illinois Institute of Technology
 
-**B.S. in Artificial Intelligence**
+Degree: **B.S. in Artificial Intelligence**
 
 2020-21
 
 College education currently on hold do to financial difficulties.
-
 
 ## Work Experience
 
