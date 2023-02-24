@@ -71,12 +71,15 @@ Here are the things that I need to focus on in order to get to my goal
 
 In progress things. Try to keep things here at a max of 2
 
-- System's Programming
-  - Computer Systems a Programmer's Perspective
+- Rust Programming
+  - Rust In Action
+  - Rust Book
 - Algorithms and Data Structures
+  - Art of Computer Programming
+  - CLRS
   - Algorithm Design Manual
-- Language Design and Implmentation
-  - Crafting Interpreters
+- Language Design and Implementation
+  - Structure and Interpretation of Computer Programs
 
 On Hold
 
@@ -85,7 +88,10 @@ On Hold
   - LearnOpenGL
 - Go Programming
 - Linux Kernel Programming Guide
-
+- Nim Programming
+- System's Programming
+  - Computer Systems a Programmer's Perspective
+ 
 Experience
 
 - C
