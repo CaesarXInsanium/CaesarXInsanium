@@ -17,21 +17,54 @@ to port a PyTorch model over to TensorFlow.
 ## Languages
 
 - Rust
-  - Love the ease of use
+  I love the ease of use
   - want to make a game
   - WGPU is the future
   - currently used in linux kernel
   - can easily bind to C
 - C
   - GCC gang
-  - love the ability to shoot myself in the foot wether I want to or not
+  - love the ability to shoot myself in the foot whether I want to or not
   - Using this language to learn computer science and to master programming
-  - want to develop on linux kernel
+  - want to develop on Linux kernel
 - Scheme
   - GNU Guile ftw
   - beginning to understand GNU Manuals
   - Structure and Interpretation of Computer Programs is the way to go
-  - i took me several months to reach page 100, i keep on rage quitting
-- Python
-  - first language
-  - was easy to learn, but dynamic typing was not for me.
+  - it took me several months to reach page 100, I keep on rage quitting
+    - 2 years later still not done
+  - I am obnoxiosly good at this language now
+- Nim
+  - compiles to C
+  - with or without garbage collecter
+  - C bindings are a piece of cake
+  - near Lisp macro power
+- Zig
+  - next evolution of C
+  - easy binding to C
+  - opinionated design, avoid C's shortfalls
+ 
+## Editors
+
+- Emacs: Elisp
+- Neovim: Lua
+- Helix: Scheme(eventually) + builtin LSP + Treesitter
+
+## Books
+
+- Introduction to Algorithms
+  - third edition
+- Art of Computer Programming
+- Compilers: Principles, Techniques, and Tools
+  - first edition
+- Crafting Interpreters
+- Structure and Interpretation of Computer Programs
+  - second edition
+- The C Programming Language
+- Algorithm Design Manual
+- Elements of Computing Systems
+- Computer Graphics: Principles and Practice
+- Computer Graphics from Scratch
+- GNU Guile Reference
+- GNU Libc Manual
+- GNU GCC Manual
