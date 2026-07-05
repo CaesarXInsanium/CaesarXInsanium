@@ -7,9 +7,13 @@ I should write a C compiler in Rust
 ## Summary
 
 It is my dream to make my own voxel engine similar to Minecraft and write it in Rust. My second 
-dream is to work on the Linux Kernel, joining both Rust and C. Both are my favorite programming languages.
+dream is to work on the Linux Kernel, joining both Rust and C. My third dream is to write my very own compiler.
+
+Rust, C, and Scheme are my favorite programming languages. Clojure is looking up to be very neat. Lua is very interesting from a language development viewpoint.
 
 I made a simple ray tracer in Rust and can use an ECS.
+
+I finished the crafting Interpreter book. I am almost done with SICP.
 
 In middle school I tinkered with Python for Deep Learning using TensorFlow and PyTorch and managed
 to port a PyTorch model over to TensorFlow.
